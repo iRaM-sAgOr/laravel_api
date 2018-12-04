@@ -1,0 +1,1 @@
+LOAD DATA LOCAL INFILE 'C:\\xampp\\htdocs\\qa\\storage\\app\\public\\logos\\new.csv' INTO TABLE `input_xcls` FIELDS TERMINATED BY ',' LINES TERMINATED BY '\r\n' IGNORE 1 LINES (`host_name`,`resource_name`,`description`,`model`,`ip_address`,`alias`,`bandwidth`,`resource`,`average`,`minimum`,`maximum`,`95th_percentile`)

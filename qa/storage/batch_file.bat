@@ -1,0 +1,1 @@
+C:\xampp\mysql\bin\mysql.exe --local-infile=1 -u root < input_given.sql

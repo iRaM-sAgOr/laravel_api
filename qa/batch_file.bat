@@ -1,0 +1,1 @@
+C:\xampp\mysql\bin>mysql -u root -p qa_tool_db< C:\xampp\htdocs\qa\input_given.sql
